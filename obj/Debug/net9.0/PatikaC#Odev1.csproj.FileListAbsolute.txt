@@ -1,0 +1,14 @@
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaC#Odev1\bin\Debug\net9.0\PatikaC#Odev1.exe
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaC#Odev1\bin\Debug\net9.0\PatikaC#Odev1.deps.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaC#Odev1\bin\Debug\net9.0\PatikaC#Odev1.runtimeconfig.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaC#Odev1\bin\Debug\net9.0\PatikaC#Odev1.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaC#Odev1\bin\Debug\net9.0\PatikaC#Odev1.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaC#Odev1\obj\Debug\net9.0\PatikaC#Odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaC#Odev1\obj\Debug\net9.0\PatikaC#Odev1.AssemblyInfoInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaC#Odev1\obj\Debug\net9.0\PatikaC#Odev1.AssemblyInfo.cs
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaC#Odev1\obj\Debug\net9.0\PatikaC#Odev1.csproj.CoreCompileInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaC#Odev1\obj\Debug\net9.0\PatikaC#Odev1.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaC#Odev1\obj\Debug\net9.0\refint\PatikaC#Odev1.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaC#Odev1\obj\Debug\net9.0\PatikaC#Odev1.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaC#Odev1\obj\Debug\net9.0\PatikaC#Odev1.genruntimeconfig.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaC#Odev1\obj\Debug\net9.0\ref\PatikaC#Odev1.dll
